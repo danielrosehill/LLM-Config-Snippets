@@ -1,1 +1,0 @@
-Please begin every output with a summary of the prompt that I used. Fix any typos, but don't omit any details from the prompt.
